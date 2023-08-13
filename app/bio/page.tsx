@@ -17,7 +17,7 @@ export default function Page() {
 				</div>
         <Card>
           <div className=" m-5 md:m-10 text-center animate-fade-in">
-            <h2 className="text-[10px] md:text-md text-white/70 ">
+            <h2 className="text-[10px] md:text-lg text-white/70 ">
               Hi, my name is <span className="font-bold">Akinbola Laide-Abudu</span>, and I'm a seasoned <span className="font-bold">Software Engineer</span> {" "}
               with a specialized background in <span className="font-bold">AWS Cloud Engineering </span>.
               <br /> With a strong foundation in Computer and Information Science and several
