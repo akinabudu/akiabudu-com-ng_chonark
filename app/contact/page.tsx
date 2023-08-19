@@ -1,15 +1,15 @@
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Github, LinkedinIcon, Mail, PhoneCallIcon, Twitter } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Twitter size={20} />,
-		href: "https://twitter.com/akinbolaabudu",
-		label: "Twitter",
-		handle: "@akinbolaabudu",
+		icon: <LinkedinIcon size={20} />,
+		href: "https://linkedin.com/in/akinabudu",
+		label: "Linkedin",
+		handle: "@akinabudu",
 	},
 	{
 		icon: <Mail size={20} />,
@@ -18,10 +18,10 @@ const socials = [
 		handle: "dev@akinabudu.com.ng",
 	},
 	{
-		icon: <Github size={20} />,
-		href: "https://github.com/akinabudu",
-		label: "Github",
-		handle: "akinabudu",
+		icon: <PhoneCallIcon size={20} />,
+		href: "#",
+		label: "Mobile/WhatsApp",
+		handle: "+234808 342 4584",
 	},
 ];
 
