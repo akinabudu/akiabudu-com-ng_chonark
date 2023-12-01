@@ -38,8 +38,14 @@ export const Navigation: React.FC = () => {
 						>
 							Bio
 						</Link>
-						<Link
+						{/* <Link
 							href="/projects"
+							className="duration-200 text-zinc-400 hover:text-zinc-100"
+						>
+							Projects
+						</Link> */}
+						<Link
+							href="/portfolio"
 							className="duration-200 text-zinc-400 hover:text-zinc-100"
 						>
 							Portfolio

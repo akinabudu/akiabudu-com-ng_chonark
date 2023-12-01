@@ -6,7 +6,8 @@ import PersonalImage from "./components/image";
 
 const navigation = [
   { name: "Bio", href: "/bio" },
-  { name: "Portfolio", href: "/projects" },
+  // { name: "Projects", href: "/projects" },
+  { name: "Portfolio", href: "/portfolio" },
   { name: "Pitch", href: "/pitch" },
   { name: "Contact", href: "/contact" },
 ];
