@@ -39,7 +39,7 @@ export default function Home() {
       </h1>
       <div className="text-white font-bold text-[10px] md:text-md p-5">
         {" "}
-        Software Engineer | UI/UX | AWS Cloud Engineer
+        Software Engineer || AWS Solutions Architect
       </div>
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
